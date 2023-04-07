@@ -1,6 +1,6 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
-
+// Comment Test
 // Declare the variables and values
 
 var specialChar = ".,?!@$#&%*"

@@ -6,6 +6,8 @@ https://timdolan14.github.io/Password_Gen/
 
 ## Github Repo
 
+https://github.com/timdolan14/Password_Gen
+
 ## Description
 
 ![Screenshot 2023-04-07 at 9 51 08 AM](https://user-images.githubusercontent.com/128433023/230620857-797f5ce6-f425-46ae-9250-36fa7bd36312.png)

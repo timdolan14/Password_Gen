@@ -2,6 +2,8 @@
 
 ## Deployed URL
 
+https://timdolan14.github.io/Password_Gen/
+
 ## Github Repo
 
 ## Description

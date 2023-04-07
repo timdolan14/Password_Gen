@@ -1,4 +1,4 @@
-## Unique-New-York - Challenge 3
+## Password Generator - Challenge 3
 
 ## Deployed URL
 
